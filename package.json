@@ -1,0 +1,21 @@
+{
+  "name": "jaikisan-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "nodemon src/index.js"
+  },
+  "author": "saif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "mongoose-sequence": "^5.3.1",
+    "node-uuid": "^1.4.8",
+    "nodemon": "^2.0.20",
+    "uuid-validate": "^0.0.3"
+ 
+  }
+}
